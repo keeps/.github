@@ -1,3 +1,5 @@
+![KEEP SOLUTIONS](keeps_logo_black_en_vector.svg)
+
 KEEP SOLUTIONS is a company whose mission is to provide advanced solutions for information management and digital preservation.
 
 Our approach consists in providing software and services to allow our customers to make a more efficient management of their information assets.
