@@ -1,4 +1,6 @@
-![KEEP SOLUTIONS](./keeps_logo_black_en_vector.svg)
+![KEEP SOLUTIONS](/profile/keeps_logo_black_en_vector.svg#gh-light-mode-only)
+![KEEP SOLUTIONS](/profile/keeps_logo_white_en_vector.svg#gh-dark-mode-only)
+
 
 KEEP SOLUTIONS is a company whose mission is to provide advanced solutions for information management and digital preservation.
 
